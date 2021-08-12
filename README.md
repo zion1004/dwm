@@ -37,5 +37,5 @@ Patches applied in the custom branch :
 + zoomswap
 
 \
--- (todo) The branch called custom-config is the custom branch some changes in config.def.h to suit my needs. --
+The branch called custom-config is the custom branch some changes in config.def.h to suit my needs.
 
