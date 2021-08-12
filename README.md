@@ -8,7 +8,7 @@ Links to dwm :
 
 ## Patches applied
 + alpha
-+ attatchasideandbelow
++ attachasideandbelow
 + bar height
 + barpadding
 + centretitle
@@ -27,6 +27,15 @@ Each patch is in its own branch. The branch called custom has everything merged.
 While the patches are applied, no configuration has beed done other than what the patches have changed in the config.def.h. \
 \
 The custom branch is like a vanilla dwm with vanilla patches done with zero configuration. \
+Patches applied in the custom branch :
++ alpha
++ attachasideandbelow
++ centretitle
++ fakefullscreen
++ pertag
++ underlinetags
++ zoomswap
+
 \
 -- (todo) The branch called custom-config is the custom branch some changes in config.def.h to suit my needs. --
 
