@@ -39,7 +39,3 @@ Patches applied in the custom branch :
 \
 -- (todo) The branch called custom-config is the custom branch some changes in config.def.h to suit my needs. --
 
-
-`libxft-bgra (AUR) for color emoji support`
-
-
