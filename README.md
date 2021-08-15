@@ -43,4 +43,4 @@ The branch called custom-config is the custom branch some changes in config.def.
 
 Laptop problems:
 + MSFT0001:00 04F3:3140 Touchpad <= not working (sometimes work) 
-
++ MSFT0001:00 04F3:3140 Mouse
