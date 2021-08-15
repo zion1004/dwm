@@ -39,3 +39,8 @@ Patches applied in the custom branch :
 \
 The branch called custom-config is the custom branch some changes in config.def.h to suit my needs.
 
+## More notes
+
+Laptop problems:
++ MSFT0001:00 04F3:3140 Touchpad <= not working (sometimes work) 
+
