@@ -22,7 +22,7 @@ Links to dwm :
 + zoomswap
 
 ## Note
-Each patch is in its own branch. The branch called custom has everything merged. \
+Each patch is in its own branch. The branch called custom has (mostly everything/patches I want) merged. \
 \
 While the patches are applied, no configuration has beed done other than what the patches have changed in the config.def.h. \
 \
