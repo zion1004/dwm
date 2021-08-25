@@ -17,6 +17,7 @@ Links to dwm :
 + fixborders
 + pertag
 + stacker
++ swallow
 + systray
 + tilegap
 + underlinetags
@@ -35,6 +36,7 @@ Patches applied in the custom branch :
 + fakefullscreen
 + pertag
 + stacker
++ swallow
 + underlinetags
 + zoomswap
 
